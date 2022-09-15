@@ -94,6 +94,7 @@ nav a {
 a:hover {
     font-weight: 700;
     font-size: 13px;
+    background: url("serce.jpg") no-repeat;
 }
 
 nav li+li::before {
